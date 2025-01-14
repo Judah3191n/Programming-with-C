@@ -1,2 +1,0 @@
-Exercise 1 
-GitHub URL: https://github.com/Judah3191n/Programming-with-C.git
