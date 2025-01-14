@@ -16,7 +16,7 @@ int main(){
     //%.3f makes the float only have 3 decimal places
     printf("The floating-point circumference with 3 decimal places: %.3f\n",circumference);
 
-    printf("The integer-converted circumference as an integer: %d", intCircumference);
+    printf("The integer-converted circumference as an integer: %d\n", intCircumference);
 
     //%e writes a double as scientific notation
     printf("Planck’s constant in scientific notation: %e",doubleCircumference);
