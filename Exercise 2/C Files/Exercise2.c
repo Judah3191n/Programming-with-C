@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 double pi = 3.14159;
 float radius = 7.154;
@@ -8,7 +9,7 @@ int main(){
     float circumference = pi*radius*2;
     int intCircumference = circumference;
     //initalize a double to write in scientific notation
-    double doubleCircumference = circumference;
+    double doubleCircumference = 6.626*pow(10,(-34));
     
     //in the placeholder put %.2f cuts the float down to 2 decimal places
     printf("The radius of the circle with 2 decimal places: %.2f\n",radius);
